@@ -1,3 +1,3 @@
-- 👋 Hello, I’m <strong><i>@kenjiDB</i></strong>
+- 👋 Hello, I’m <strong><i>kenjiDB</i></strong>
 - 👀 I’m interested in <strong><i>Web development</i></strong>
 - 🌱 I’m currently learning <strong><i>JavaScript and TypeScript</i></strong>
